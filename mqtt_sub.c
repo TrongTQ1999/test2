@@ -49,6 +49,7 @@ int main()
 	mosquitto_lib_cleanup();
 
 	printf("develop add features1");
+	printf("develop add features2");
 
 	return 0;
 }
