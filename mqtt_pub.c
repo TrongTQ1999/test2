@@ -30,5 +30,6 @@ int main(int argc, char *argv[])
 
 	mosquitto_lib_cleanup();
 	printf('trong');
+	printf("trong1");
 	return 0;
 }
