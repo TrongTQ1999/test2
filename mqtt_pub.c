@@ -32,6 +32,7 @@ int main(int argc, char *argv[])
 
 	printf("tran quoc trong in here\n");
 	printf("tran quoc trong  1 in here\n");
+	printf("tran quoc trong  2 in here\n");
 
 	return 0;
 }
