@@ -31,6 +31,8 @@ int main(int argc, char *argv[])
 	mosquitto_lib_cleanup();
 
 	printf("tran quoc trong in here\n");
+	printf("tran quoc trong  1 in here\n");
+	printf("tran quoc trong  2 in here\n");
 
 	printf("trong1");
 	printf("trong2");
